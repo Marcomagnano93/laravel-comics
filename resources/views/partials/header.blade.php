@@ -6,6 +6,9 @@
         <div class="col-4">
             <ul class="nav">
                 <li class="nav-item">
+                    <a class="nav-link" href="/">Home</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/about">Chi siamo</a>
                 </li>
                 <li class="nav-item">
