@@ -10,7 +10,7 @@
             </ul>
         </div>
         <div class="col-6 text-center">
-            <button type="button" class="btn btn-info">Torna alla home</button>
+            <button type="button" class="btn btn-info"><a href="/">Torna alla Home</a></button>
         </div>
     </div>
 </div>
