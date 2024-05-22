@@ -1,6 +1,6 @@
 @extends('app')
 
-@section('title, "Servizi"')
+@section('title', "Servizi")
 
 @section('content')
 <div class="container">
